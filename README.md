@@ -1,3 +1,43 @@
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">I'm a passionate developer focused on building solutions that make a real difference. I work as a systems analyst, specializing in modern web applications using <b>PHP (Laravel)</b>, <b>Livewire</b>, <b>Vue.js</b>, <b>Filament</b>, <b>Docker</b>, among other technologies that drive productivity and scalability.<br><br>I have experience in system architecture, automation, API integration, relational databases, indexing with <b>MeiliSearch</b>, and performance monitoring tools. I'm constantly seeking to improve my skills to deliver clean, efficient, and purposeful code.<br><br>I believe technology goes beyond lines of cod, it's about solving real problems, connecting people, and generating positive impact. I'm committed to excellence, continuous improvement, and delivering solutions that truly add value.</p>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sentry" height="40" alt="sentry logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+</div>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
